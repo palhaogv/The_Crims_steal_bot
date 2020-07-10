@@ -75,21 +75,7 @@ while True:
         except:
             pass
 
-'''except:
-        time.sleep(10)'''
-'''# ABA NIGHT LIFE
-        driver_l.find_element_by_id('menu-nightlife').click()
-        time.sleep(1)
-    
-        driver_l.find_element_by_css_selector('.btn.btn-inverse.btn.btn-inverse.btn-small.pull-right').click()
-        time.sleep(0.8)
-    
-        # ABA MANSÃO
-        driver_l.find_element_by_xpath('//*[@id="content_middle"]/div/div[3]/table[2]/tbody/tr/td[4]/button').click()
-        time.sleep(1)
-        # driver_l.find_element_by_css_selector('.btn.btn-inverse').click()
-        driver_l.find_element_by_xpath("//*[contains(text(), 'Sair')]").click()
-        time.sleep(1)'''
+
 
 
 
