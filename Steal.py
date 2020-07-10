@@ -19,7 +19,7 @@ username.send_keys('palhaogv')
 time.sleep(2)
 
 password = driver_l.find_element_by_xpath("//input[@placeholder='Password']")
-password.send_keys('2a60f69c6199')
+password.send_keys('xxx')
 time.sleep(2)
 
 driver_l.find_element_by_css_selector('.btn.btn-large.btn-inverse').click()
